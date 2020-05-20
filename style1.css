@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 35px;
+}
+.short-description{
+    font-style: italic;
+    color: darkgray;
+}
+.name{
+    color: rgba(247, 109, 11, 0.986);
+}
+.intro{
+    width: 38%;
+    font-size: 15px;
+    float: left;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.intro img{
+    width: 100%;
+}
+.intro p{
+    text-align: justify;
+}
