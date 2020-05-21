@@ -74,6 +74,9 @@ section{
     font-size: 11px;
     color: grey;
 }
+.skills:hover{
+    color: indigo;
+}
 
 #SMM{
     border-left: 4px solid;
